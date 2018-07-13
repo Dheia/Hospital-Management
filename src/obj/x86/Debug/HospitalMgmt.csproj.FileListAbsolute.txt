@@ -1,0 +1,14 @@
+D:\newdeep\HospitalMgmt\bin\Debug\HospitalMgmt.exe
+D:\newdeep\HospitalMgmt\bin\Debug\HospitalMgmt.pdb
+D:\newdeep\HospitalMgmt\obj\x86\Debug\HospitalMgmt.Form1.resources
+D:\newdeep\HospitalMgmt\obj\x86\Debug\HospitalMgmt.Properties.Resources.resources
+D:\newdeep\HospitalMgmt\obj\x86\Debug\HospitalMgmt.csproj.GenerateResource.Cache
+D:\newdeep\HospitalMgmt\obj\x86\Debug\HospitalMgmt.exe
+D:\newdeep\HospitalMgmt\obj\x86\Debug\HospitalMgmt.pdb
+D:\newdeep\HospitalMgmt\obj\x86\Debug\HospitalMgmt.Menu.resources
+D:\newdeep\HospitalMgmt\obj\x86\Debug\HospitalMgmt.InsertDoc.resources
+D:\newdeep\HospitalMgmt\obj\x86\Debug\HospitalMgmt.ViewDoc.resources
+D:\newdeep\HospitalMgmt\obj\x86\Debug\HospitalMgmt.Report.resources
+D:\newdeep\HospitalMgmt\obj\x86\Debug\HospitalMgmt.csprojResolveAssemblyReference.cache
+D:\newdeep\HospitalMgmt\obj\x86\Debug\HospitalMgmt.InsertPatient.resources
+D:\newdeep\HospitalMgmt\obj\x86\Debug\HospitalMgmt.ViewPatient.resources
